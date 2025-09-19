@@ -1,0 +1,29 @@
+Commands of Linux :
+		pwd : path to the current location
+		ls : list out all directories for file loation	
+		mkdir : make directory
+		rmdir : remove directorey
+		whoami : shows user
+		cd : chanmge directory
+		date : check date
+		date +%D : date in format
+		date +%T : time in format
+		date +%H:%M : time in hrs:min
+		cd .. : getout from directory
+		ls -lt : details of directory
+		ls -ltr : reversed the oreder of details of directory
+		touch fl_name : create file
+		nano fl_name : update file 
+		cat fl_name : display contents of file
+		clear : clears screen
+		mv fl_name dir_name : move file to directory
+		cp fl_name dir_name : copy file to directory
+		chmod code filename : changes permissions to a file
+ 		code : 0 - nothing 
+		       1 - execute
+		       2 - write 
+		       4 - read
+                       3 - write execute
+		       5 - execute read
+                       6 - read write 
+                       7 - All
